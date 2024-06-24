@@ -1,1 +1,5 @@
 anthropic
+elevenlabs
+pygame
+openai
+python-dotenv
